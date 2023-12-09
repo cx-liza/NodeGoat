@@ -1,0 +1,8 @@
+{
+    "name": "testreactapp",
+    "version": "0.1.0",
+    "dependencies": {
+        "jenkins-mocha": "9.0.0",
+        "split-react": "0.0.6"
+    }
+}
